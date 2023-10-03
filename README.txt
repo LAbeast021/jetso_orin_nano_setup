@@ -1,3 +1,6 @@
+for torch whl packages : 
+link : https://developer.download.nvidia.cn/compute/redist/jp/
+________________________---------------------------------___________________________________________________
 for jetson utility library follow these steps : 
 git clone https://github.com/dusty-nv/jetson-utils
 mkdir build
